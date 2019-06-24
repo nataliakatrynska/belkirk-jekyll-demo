@@ -1,6 +1,6 @@
 ---
-heading: Belkirk College
-sub_heading: Engineering and Health Sciences
+heading: ''
+sub_heading: ''
 layout: home
 title: Sunday Title
 banner_image: ''
